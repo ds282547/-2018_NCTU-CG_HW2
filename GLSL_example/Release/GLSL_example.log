@@ -1,0 +1,21 @@
+﻿main.obj : error LNK2001: 無法解析的外部符號 __imp____glewEnableVertexAttribArray
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewUseProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewVertexAttribPointer
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewGetShaderiv
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewCompileShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewCreateShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewBindBuffer
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewCreateProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewGetShaderInfoLog
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewGetProgramiv
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewBufferData
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewAttachShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewDeleteProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewShaderSource
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewDetachShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewGetProgramInfoLog
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewGenBuffers
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewDeleteShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp____glewLinkProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp__glewInit@0
+D:\Course\CG\hw2_release\Release\GLSL_example.exe : fatal error LNK1120: 20 個無法解析的外部符號
