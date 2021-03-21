@@ -4,8 +4,12 @@ The second assignment of NCTU Computer Graphics 2018(Fall).  To implement three 
 
 # Result
 
-Phone shading
+### Phone shading 
+<img src="./pic/1.png" height=250> <img src="./pic/2.png" height=250>
 
-Dissolving
+### Dissolving
 
-Ramp
+<img src="./pic/dissolve.gif" height=250>
+
+### Ramp
+<img src="./pic/ramp.png" height=250>
